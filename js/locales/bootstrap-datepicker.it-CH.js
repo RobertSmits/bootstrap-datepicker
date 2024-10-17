@@ -1,12 +1,12 @@
 /**
  * Italian (Switzerland) translation for bootstrap-datepicker
  * Christoph Jossi <c.jossi@ascami.ch>
- * Based on 
+ * Based on
  * Italian translation for bootstrap-datepicker
  * Enrico Rubboli <rubboli@gmail.com>
  */
 ;(function($){
-	$.fn.datepicker.dates['it'] = {
+	$.fn.datepicker.dates['it-CH'] = {
 		days: ["Domenica", "Lunedì", "Martedì", "Mercoledì", "Giovedì", "Venerdì", "Sabato"],
 		daysShort: ["Dom", "Lun", "Mar", "Mer", "Gio", "Ven", "Sab"],
 		daysMin: ["Do", "Lu", "Ma", "Me", "Gi", "Ve", "Sa"],
